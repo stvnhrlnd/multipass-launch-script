@@ -1,0 +1,6 @@
+{
+  "[shellscript]": {
+    "editor.formatOnSave": true,
+    "editor.rulers": [86]
+  }
+}
